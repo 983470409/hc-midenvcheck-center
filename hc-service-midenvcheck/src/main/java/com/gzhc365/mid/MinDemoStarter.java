@@ -11,6 +11,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MinDemoStarter {
 
     public static void main(String[] args) {
-        SpringApplication.run(MinDemoStarter.class, args);
+        //同事B
+        System.out.println("this my code B");
+
     }
 }
