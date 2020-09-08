@@ -7,6 +7,6 @@ package com.gzhc365.mid.firstday;
 public class Test {
 
     public static void main(String[] args) {
-
+        System.out.println("my coode ");
     }
 }
